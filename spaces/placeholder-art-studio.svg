@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">West Art Studio</title>
+  <desc id="desc">Photos coming soon</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#24212b"/>
+      <stop offset="1" stop-color="#65516c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="95" y="95" width="1010" height="610" rx="18" fill="none" stroke="#d1b1cb" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M548 325 L640 233 L660 253 L568 345 L537 356 Z" fill="none" stroke="#e4cee8" stroke-width="5" stroke-linejoin="round"/>
+  <text x="600" y="412" fill="#e4cee8" font-size="25" font-family="Arial, sans-serif" text-anchor="middle" letter-spacing="7">VISLOFT STUDIOS</text>
+  <text x="600" y="475" fill="#fff" font-size="49" font-family="Georgia, serif" text-anchor="middle">West Art Studio</text>
+  <text x="600" y="526" fill="#e4cee8" font-size="23" font-family="Arial, sans-serif" text-anchor="middle">Photos coming soon</text>
+</svg>
